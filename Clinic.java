@@ -20,6 +20,7 @@ public class Clinic {
         this.reception = reception;
     }
 
+
     private IDoctor doctor;
 
     public IDoctor getDoctor() {
