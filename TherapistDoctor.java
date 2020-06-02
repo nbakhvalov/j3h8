@@ -1,7 +1,9 @@
 package Home8;
 
+
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Component;
+
 
 @Component("TherapistDoctor")
 @Scope("prototype")

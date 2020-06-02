@@ -3,7 +3,6 @@
  при условии, что А = В
  */
 
-
 public class SpiralArray {
 
     public static void main(String[] args) {

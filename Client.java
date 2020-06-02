@@ -3,9 +3,10 @@ package Home8;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+
 public class Client {
     public static void main(String[] args) {
-        
+
         Assistant assistant = new Assistant();
         Clinic clinic = assistant.getClinic();
         clinic.beHealed();
